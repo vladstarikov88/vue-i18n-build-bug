@@ -1,24 +1,10 @@
 # i18n-bug
 
-## Project setup
+### Steps to reproduce the bug
 ```
 yarn install
-```
-
-### Compiles and hot-reloads for development
-```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Result you'll get
+![image](https://github.com/vladstarikov88/vue-i18n-build-bug/assets/26491847/5fb78611-e24d-4843-bd07-36c419c41cc1)
