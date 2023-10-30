@@ -1,4 +1,9 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-createApp(App).mount('#app')
+import { i18n } from './i18n';
+
+export const app = createApp(App)
+  .use(i18n);
+
+app.mount('#app');
